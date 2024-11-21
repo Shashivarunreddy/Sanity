@@ -11,5 +11,5 @@ Now you can do the following things:
 - [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
 
 
-##Deployed on : [(https://shashi-varun.sanity.studio/)](https://shashi-varun.sanity.studio/)
+Deployed on : [(https://shashi-varun.sanity.studio/)](https://shashi-varun.sanity.studio/)
 
